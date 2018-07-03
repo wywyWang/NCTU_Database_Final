@@ -1,0 +1,49 @@
+a {
+  color: #379392;
+}
+a:active {
+    text-decoration: none;
+}
+
+.btn-new {
+  color: #fff;
+  background-color: #379392;
+  float: right;
+}
+
+.btn-remove {
+  background-color: #EE7785;
+  color: #fff;
+  font-size: 10px;
+  padding: 5px 5px;
+}
+
+.container {
+  width: 50%;
+  padding: 30px 30px;
+  margin-top: 60px;
+  border: 3px solid #E5E5E5;
+  border-top: none;
+  border-bottom: none;
+}
+
+.navbar {
+  background-color: #379392;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.navbar .navbar-header .navbar-brand {
+  color: #fff;
+  margin-left: 50px;
+  font-size: 26px;
+  margin-right: 200px;
+}
+.navbar .collapse .navbar-nav li a {
+  color: #fff;
+  font-size: 16px;
+}
+.navbar .collapse .navbar-nav li.active a {
+  color: #fff;
+  background: 0;
+  border-bottom: 3px solid #fff;
+}

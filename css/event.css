@@ -1,0 +1,55 @@
+.container {
+  width: 75%; }
+
+.event-wrapper .btn-new {
+  background-color: #4F86C6; }
+.event-wrapper .btn-remove {
+  font-size: 14px;
+  padding: 6px 12px;
+  float: right; }
+.event-wrapper .description {
+  padding: 20px 50px;
+  font-size: 16px;
+  background-color: #f5f5f5;
+  margin: 30px 0;
+  color: #4F86C6; }
+  .event-wrapper .description .warning {
+    color: #EE7785; }
+.event-wrapper .table {
+  font-size: 16px; }
+  .event-wrapper .table .btn-new {
+    background-color: #4F86C6;
+    float: none;
+    margin-right: 10px; }
+  .event-wrapper .table th, .event-wrapper .table td {
+    border-color: #379392; }
+  .event-wrapper .table th {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #379392;
+    color: #fff; }
+  .event-wrapper .table td {
+    padding: 30px; }
+.event-wrapper .signup-form {
+  margin-top: 50px; }
+  .event-wrapper .signup-form .table {
+    width: 80%;
+    border-left: 1px solid #f5f5f5;
+    border-right: 1px solid #f5f5f5;
+    border-bottom: 1px solid #f5f5f5; }
+    .event-wrapper .signup-form .table th {
+      background-color: #4F86C6; }
+    .event-wrapper .signup-form .table th, .event-wrapper .signup-form .table td {
+      border-color: #f5f5f5; }
+    .event-wrapper .signup-form .table .student-id {
+      width: 100px; }
+    .event-wrapper .signup-form .table .form-control {
+      width: 100px; }
+  .event-wrapper .signup-form .form-bottom {
+    border-top: 2px solid #f5f5f5;
+    padding-top: 15px; }
+.event-wrapper .btn-event {
+  color: #fff;
+  background-color: #379392; }
+
+/*# sourceMappingURL=event.css.map */

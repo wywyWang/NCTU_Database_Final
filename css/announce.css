@@ -1,0 +1,21 @@
+.announce-wrapper .title {
+  margin-bottom: 30px; }
+.announce-wrapper .btn-remove {
+  padding: 6px 12px;
+  font-size: 14px;
+  float: right;
+  margin-left: 10px; }
+.announce-wrapper .date {
+  color: #4F86C6; }
+.announce-wrapper .table {
+  font-size: 16px; }
+  .announce-wrapper .table tr {
+    border-bottom: 1px solid #f5f5f5; }
+  .announce-wrapper .table td {
+    padding: 1em; }
+  .announce-wrapper .table .td-date {
+    width: 150px; }
+.announce-wrapper .announce-content {
+  padding: 30px; }
+
+/*# sourceMappingURL=announce.css.map */
